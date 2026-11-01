@@ -1,4 +1,4 @@
-# Leetcode-Problems
+# Leetcode-Grind
 My LeetCode solutions in Python with time/space complexity analysis and notes.
 
 <div align="center">
