@@ -8,16 +8,14 @@ My LeetCode solutions in Python with time/space complexity analysis and notes.
 > *My LeetCode solutions in Python with time/space complexity analysis and notes.*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhayv175-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhayv175/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 
 ---
 
 ### 📊 Practice Metrics
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🎯 Total Solved |
-| :---: | :---: | :---: | :---: |
-| **0** | **0** | **0** | **0** |
+<img src="https://leetcard.jacoblin.cool/abhayv175?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats for abhayv175" />
 
 </div>
 
@@ -34,12 +32,3 @@ My LeetCode solutions in Python with time/space complexity analysis and notes.
 ## 📂 Directory Layout
 
 Solutions are organized into focused topic folders to streamline revision:
-
-```text
-leetcode-solutions/
-├── arrays-hashing/           # Hash maps, frequency counts, prefix sums
-├── two-pointers/             # Converging pointers, fast & slow pointers
-├── sliding-window/           # Fixed and dynamic subarray windows
-├── stack/                    # Monotonic stack, parenthesis matching
-├── binary-search/            # Sorted search, search spaces, boundary finding
-├── linked-list/              # In
