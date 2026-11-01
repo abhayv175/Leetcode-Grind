@@ -9,7 +9,6 @@ My LeetCode solutions in Python with time/space complexity analysis and notes.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhayv175-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhayv175/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 
 ---
 
