@@ -38,62 +38,6 @@ Solutions are organized into focused topic folders to streamline revision:
 
 
 
-```markdown
-<div align="center">
-
-# ⚡ LeetCode Solutions & DSA Handbook
-
-> *My LeetCode solutions in Python with time/space complexity analysis and comprehensive Data Structures & Algorithms notes.*
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-abhayv175-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhayv175/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
-
----
-
-### 📊 Practice Metrics
-
-<img src="https://leetcard.jacoblin.cool/abhayv175?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats for abhayv175" />
-
-</div>
-
----
-
-## 🎯 Repository Objectives
-
-- **Pattern-First Problem Solving:** Master core algorithmic patterns (Two Pointers, Sliding Window, Trees, Graphs, DP) instead of memorizing solutions.
-- **Idiomatic Python:** Implement clean, maintainable Python solutions leveraging built-in standard libraries (`collections`, `heapq`, `math`).
-- **Complexity Analysis:** Document strict Time ($O$) and Space ($O$) trade-offs for every solution.
-
----
-
-## 📂 Directory Layout
-
-Solutions are organized into focused topic folders to streamline revision:
-
-```text
-leetcode-solutions/
-├── arrays-hashing/           # Hash maps, frequency counts, prefix sums
-├── two-pointers/             # Converging pointers, fast & slow pointers
-├── sliding-window/           # Fixed and dynamic subarray windows
-├── stack/                    # Monotonic stack, parenthesis matching
-├── binary-search/            # Sorted search, search spaces, boundary finding
-├── linked-list/              # In-place manipulation, cycle detection
-├── trees/                    # Binary trees, BSTs, DFS/BFS traversals
-├── heap-priority-queue/      # Top-K elements, min/max heaps
-├── backtracking/             # Subsets, permutations, search pruning
-├── graphs/                   # Grid traversal, BFS/DFS, topological sort
-├── dynamic-programming/      # Memoization and iterative tabulation
-├── intervals/                # Overlapping intervals, merge patterns
-├── bit-manipulation/         # Bitwise operations, XOR properties
-├── templates/                # Standard boilerplate and solution template
-├── LICENSE
-└── README.md
-
-```
-
----
-
 ## 📚 Complete Data Structures & Algorithms (DSA) Handbook
 
 ### 1. What is a Data Structure (DS)?
