@@ -30,7 +30,7 @@ My LeetCode solutions in Python with time/space complexity analysis and notes.
 
 ## 📂 Directory Layout
 
-Solutions are organized into focused topic folders to streamline revision:
+Solutions are organized into focused topic folders to streamline revision.
 
 
 
